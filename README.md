@@ -16,3 +16,6 @@ This personal project of mine is simple. It's the game you play when you're bore
 ## Possible In The Future
 - Ocaml
 - Rust
+
+## Expect An Update:
+- Java (Will optimize code)
