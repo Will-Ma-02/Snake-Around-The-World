@@ -13,7 +13,7 @@ This personal project of mine is simple. It's the game you play when you're bore
 - Ruby - About 4 months left
 - Javascript - About 3 months left
 
-## Possible In The Future
+## Possible In The Future:
 - Ocaml
 - Rust
 
