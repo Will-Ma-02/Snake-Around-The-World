@@ -5,9 +5,10 @@ This personal project of mine is simple. It's the game you play when you're bore
 
 ## Currently Released:
 - Java
+- Python (Game is mostly complete)
 
 ## Coming Soon:
-- Python - About 1 month left
+- Python - About 1 week left 
 - C - About 8 months left
 - Ruby - About 4 months left
 - Javascript - About 3 months left
