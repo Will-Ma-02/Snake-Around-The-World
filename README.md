@@ -19,3 +19,6 @@ This personal project of mine is simple. It's the game you play when you're bore
 
 ## Expect An Update:
 - Java (Will optimize code)
+
+## Completely Done:
+- None yet
