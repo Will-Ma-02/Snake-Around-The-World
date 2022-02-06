@@ -21,9 +21,6 @@ class Python:
     def len(self):
         return len(self._segments)
 
-    def get_segment(self, index):
-        return self._segments[index]
-
     def get_direction(self):
         return self._direction
 
