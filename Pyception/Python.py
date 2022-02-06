@@ -8,15 +8,18 @@ class Python:
     # Constructor
     def __init__(self, direction):
         self._segments.append(Segment(
-            Coordinates.valid_coordinates_python[random.randint(0, 
-            len(Coordinates.valid_coordinates_python) - 1)], 
-            Coordinates.valid_coordinates_python[random.randint(0, 
-            len(Coordinates.valid_coordinates_python) - 1)], 
+            Coordinates.VALID_COORDINATES[random.randint(0, 
+            len(Coordinates.VALID_COORDINATES) - 1)], 
+            Coordinates.VALID_COORDINATES[random.randint(0, 
+            len(Coordinates.VALID_COORDINATES) - 1)], 
             Constants.SEGMENT_SIZE))
         self._direction = direction
 
     def segments(self):
         return self._segments
+
+    def get_segment(self, index):
+        return self._segments[index]
 
     def len(self):
         return len(self._segments)

@@ -14,5 +14,5 @@ class Food:
         return self._y
     
     def move_food(self):
-        self._x = Coordinates.valid_coordinates_food[random.randint(0, len(Coordinates.valid_coordinates_food) - 1)]
-        self._y = Coordinates.valid_coordinates_food[random.randint(0, len(Coordinates.valid_coordinates_food) - 1)]
+        self._x = Coordinates.VALID_COORDINATES[random.randint(1, len(Coordinates.VALID_COORDINATES) - 1)]
+        self._y = Coordinates.VALID_COORDINATES[random.randint(1, len(Coordinates.VALID_COORDINATES) - 1)]
