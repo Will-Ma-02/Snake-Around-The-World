@@ -5,8 +5,8 @@
 - Please read this throughly before you start playing!
 
 ## Pyception! · An Overview 
-Hooray! This project was a huge success for me. It was by far my biggest project yet. 
-With different menu screens, the ability to save and customize settings and data, 
+Hooray! This project was a huge success for me. It was by far one of my biggest projects 
+ever. With different menu screens, the ability to save and customize settings and data, 
 and some pixelated text, this game ended up being a massive success! 
 
 The biggest challenges by far were trying to make a working settings screen, and reading
@@ -17,6 +17,9 @@ me!
 The base of the game wasn't anything much. I used an object-oriented approach to design
 this game, as well as for ease of future updates and easy debugging. If you want to learn
 more about how I designed this game, I will be releasing more details soon!
+
+By the way, the name for this game is sort of ironic. I made the snake game in a programming
+lanugage named after a snake. Hence the name "Pyception": A Python in Python.
 
 ## Pyception! · A Tutorial 
 With that out of the way, let me show you how to play the game. If you're unfamiliar with 
@@ -65,5 +68,13 @@ their environment. You may need to install a couple extensions to do so.
 - If you have any other questions or find an alternative method to the ones I described that works, let
 me know through a DM!
 
+## Pyception! · Settings 
+You can change your setting by navigating to the settings menu by pressing Tab in the start menu. Once 
+inside, use the number keys to select a setting. Use the left and right arrow keys to cycle through the 
+settings. That's it, you're good to go! As mentioned earlier, your settings will be saved to the 
+Saved_Data.ini file. This means your settings will be saved even after you close the game, and will
+be loaded in once you run it again. Your high score is saved in here too, but in a different section.
 
-
+## Pyception! · A Conclusion
+That's it from me for now! If I have any more updates, I will update this README as well as the repo.
+Again, this has been one of my biggest projects, so thank you for all the support! 
