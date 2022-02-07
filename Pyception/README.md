@@ -42,7 +42,7 @@ to avoid accidentally losing by telescoping into yourself!
 3. There is a score tracker on either the top or bottom of the screen, depending on the setting.
 This tracks what your current score is and is updated every time you eat more food.
 4. I've made it so your high score is saved. You can see your high score in the menu screen and
-in the end screen after a game over. Your high score is saved in the Saved_Data,ini file, which
+in the end screen after a game over. Your high score is saved in the Saved_Data.ini file, which
 I will go over in more detail shortly.
 
 
