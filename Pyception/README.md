@@ -24,7 +24,7 @@ the rules of Snake, they are as follows:
 
 1. You control a snake which moves in a 1 of 4 directions (up, down, left, right) that can be 
 changed using the arrow keys. Changing direction changes where your head (the leading part of
-your body) goes.
+your body) goes. All other segments follow behind it.
 2. Every time you eat food (the only other non-snake object), your score goes up by 1 and the 
 snake grows 1 segment longer. The food moves to a new location.
 3. If you hit a wall (any of the edges) or eat yourself (your head touches any part of your 
@@ -40,7 +40,7 @@ be stationary until you hit an arrow key.
 2. You can't instantly change to the direction opposite yours. This means if you are going up, 
 you can't change your direction to down, and vice versa. Same goes for left and right. This is 
 to avoid accidentally losing by telescoping into yourself!
-3. To help with confusion, I've added some eyes to the "head" of the snake to avoid confusion
+3. To help with confusion, I've added some eyes to the head of the snake to avoid confusion
 over which segment is the head. They even change direction based on which direction the snake
 is moving!
 4. There is a score tracker on either the top or bottom of the screen, depending on the setting.
