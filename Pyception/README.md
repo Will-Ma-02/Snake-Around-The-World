@@ -3,7 +3,7 @@
 - Github: Will-Ma-02
 - Repository: https://github.com/Will-Ma-02/Snake-Around-The-World
 - Please read this throughly before you start playing!
-- 
+
 ## WARNING/DISCLAIMER: 
 This is a personal project made for my own (and your) entertainment. This game is not copyrighted or 
 trademarked, and has no intent to be profitable. The fonts used in the game are not owned by me, nor do 
