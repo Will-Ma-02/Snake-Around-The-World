@@ -6,10 +6,10 @@
 - 
 ## WARNING/DISCLAIMER: 
 This is a personal project made for my own (and your) entertainment. This game is not copyrighted or 
-trademarked, and has no intent to be profitable. The fonts used in the game are also owned by me, 
-nor do I have the rights to use them in any commercial way, so please DO NOT use this game outside
-of its intended purpose. I am allowed to use these fonts only for personal reasons. Read the README in 
-the Fonts folder for more information.
+trademarked, and has no intent to be profitable. The fonts used in the game are not owned by me, nor do 
+I have the rights to use them in any commercial way, so please DO NOT use this game outside of its intended 
+purpose. I am allowed to use these fonts only for personal reasons. Read the README in the Fonts folder
+for more information.
 
 ## Pyception! · An Overview 
 Hooray! This project was a huge success for me. It was by far one of my biggest projects 
