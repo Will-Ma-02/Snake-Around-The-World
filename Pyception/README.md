@@ -18,7 +18,17 @@ this game, as well as for ease of future updates and easy debugging. If you want
 more about how I designed this game, I will be releasing more details soon!
 
 ## Pyception! · A Tutorial 
-With that out of the way, let me show you how to play the game. Rules
+With that out of the way, let me show you how to play the game. If you're unfamiliar with 
+the rules for snake, they are as follows:
+1. You control a snake whihc moves in a certain direction that can be changed using the 
+arrow keys.
+2. Every time you eat food, your score goes up by 1 and the snake grows 1 unit longer.
+3. If you hit a wall (any of the edges) or eat yourself (your head touches your tail), it's 
+game over.
+The goal of the game is to get the highest score possible while not hitting a wall or eating
+yourself. 
+
+
 
 
 
