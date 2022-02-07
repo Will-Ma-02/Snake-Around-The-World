@@ -4,7 +4,7 @@
 - Repository: https://github.com/Will-Ma-02/Snake-Around-The-World
 - Please read this throughly before you start playing!
 - 
-### WARNING: 
+## WARNING: 
 This is a personal project made for my own (and your) entertainment. This game is not copyrighted or 
 trademarked, and has no intent to be profitable. The fonts used in the game are also not owned by me, 
 nor do I have the rights to use them in any non-personal way, so please DO NOT use this game outside
