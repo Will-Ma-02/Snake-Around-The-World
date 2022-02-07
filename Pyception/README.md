@@ -25,6 +25,7 @@ arrow keys.
 2. Every time you eat food, your score goes up by 1 and the snake grows 1 unit longer.
 3. If you hit a wall (any of the edges) or eat yourself (your head touches your tail), it's 
 game over.
+
 The goal of the game is to get the highest score possible while not hitting a wall or eating
 yourself. 
 
