@@ -18,3 +18,8 @@ GAME_STATES = {
     "PLAYING" : False,
     "END" : False
 }
+OPTIONS = {
+    "SETTING1" : ["Green", "Blue", "Rainbow"],
+    "SETTING2" : ["Red", "Yellow", "Magenta"],
+    "SETTING3" : ["Top", "Bottom"]
+}
