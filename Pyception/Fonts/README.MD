@@ -1,5 +1,5 @@
 ## Credits: 
-Determination Mono, nammed "Pixel.ttf": 
+Determination Mono, named "Pixel.ttf": 
 Abacadaba, https://www.fontspace.com/determination-mono-web-font-f23209
 
 ## DISCLAIMER ABOUT THE USE OF FONTS
