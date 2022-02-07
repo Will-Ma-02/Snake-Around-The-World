@@ -19,7 +19,7 @@ more about how I designed this game, I will be releasing more details soon!
 
 ## Pyception! · A Tutorial 
 With that out of the way, let me show you how to play the game. If you're unfamiliar with 
-the rules for snake, they are as follows:
+the rules of snake, they are as follows:
 
 1. You control a snake which moves in a 1 of 4 directions (up, down, left, right) that can be 
 changed using the arrow keys.
