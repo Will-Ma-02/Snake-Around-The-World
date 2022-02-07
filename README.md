@@ -19,7 +19,7 @@ This personal project of mine is simple. It's the game you play when you're bore
 
 ## Expect An Update:
 - Java · Will optimize code
-- Python · Will finish the base game
+- Python · Will touch up on some parts
 
 ## Completely Done:
 - None yet
