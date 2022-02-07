@@ -50,6 +50,20 @@ in the end screen after a game over. Your high score is saved in the Saved_Data.
 I will go over in more detail shortly.
 
 
+## Pyception! · Running The Game
+There are lots of ways to run the game, depending on what IDE (if any) you are using. Here are a
+few:
+- If you're using VSCode, you can click the play button in the top right to automatically execute the
+Python script for you. Make sure you are in the script "Game.py" before you click the button. If this
+doesn't work, make sure you have the VSCode Python 3 interpreter extension installed for Python.
+- Another way is to open a terminal and navigate to the Pyception folder. You can do this by using
+cd commands. If you're not sure how to navigate using cd commands, look up a tutorial on Google. Once 
+inside, type "python3 Game.py" and the game should start. If this doesn't work, make sure you have 
+Python installed on your computer. To do this, type "pip install python3" in the terminal.
+- If you're using any other IDE other than VSCode, look up a tutorial of how to run python scripts in 
+their environment. You may need to install a couple extensions to do so.
+- If you have any other questions or find an alternative method to the ones I described that works, let
+me know through a DM!
 
 
 
