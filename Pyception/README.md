@@ -2,7 +2,7 @@
 - Version: 1.2
 - Github: Will-Ma-02
 - Repository: https://github.com/Will-Ma-02/Snake-Around-The-World
-- If you aren't sure about something, please read this throughly!
+- Please read this throughly before you start playing!
 
 ## Pyception! · An Overview 
 Hooray! This project was a huge success for me. It was by far my biggest project yet. 
