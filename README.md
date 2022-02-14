@@ -5,7 +5,7 @@ This personal project of mine is simple. It's the game you play when you're bore
 
 ## Currently Released:
 - Java · SnakeGame
-- Python · Pyception [99% COMPLETE], full completion expected Feb 10
+- Python · Pyception [99% COMPLETE], full completion expected Feb 15
 
 ## Coming Soon:
 - C · Not started
