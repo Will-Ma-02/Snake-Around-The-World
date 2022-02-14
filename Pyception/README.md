@@ -1,8 +1,12 @@
 # Pyception! by William Ma 
-- Version: 1.2
+- Version: 1.1
 - Github: Will-Ma-02
 - Repository: https://github.com/Will-Ma-02/Snake-Around-The-World
 - Please read this throughly before you start playing!
+
+## New in Version 1.1:
+- Added background music. Credits: https://www.youtube.com/watch?v=VVgVFSdkqFA
+- Changed the settings menu highlight color from blue to yellow.
 
 ## WARNING/DISCLAIMER: 
 This is a personal project made for my own (and your) entertainment. This game is not copyrighted or 

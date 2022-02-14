@@ -1,3 +1,13 @@
+'''
+Class: Segment
+
+A coordinate pair representing the position of one of the
+parts of the python.
+
+Used in: Python, Pyception
+Subclasses: None
+Superclasses: Object
+'''
 class Segment:
 
     # Constructor
