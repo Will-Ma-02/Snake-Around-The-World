@@ -80,7 +80,7 @@ their environment. You may need to install a couple extensions to do so.
 me know through a DM!
 
 ## Pyception! · Settings 
-You can change your setting by navigating to the settings menu by pressing Tab in the start menu. Once 
+You can change your settings by navigating to the settings menu by pressing Tab in the start menu. Once 
 inside, use the number keys to select a setting. Use the left and right arrow keys to cycle through the 
 settings. That's it, you're good to go! As mentioned earlier, your settings will be saved to the 
 Saved_Data.ini file. This means your settings will be saved even after you close the game, and will
