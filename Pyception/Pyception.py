@@ -363,7 +363,7 @@ while running:
                         Options.BLOCKED[1] = False
                         Options.BLOCKED[2] = False
                     else:
-                        Options.COLORS[0] = Colors.YELLOW
+                        Options.COLORS[0] = Colors.MAGENTA
                         Options.ACTIVATED[0] = True
                         Options.BLOCKED[1] = True
                         Options.BLOCKED[2] = True
@@ -374,7 +374,7 @@ while running:
                         Options.BLOCKED[0] = False
                         Options.BLOCKED[2] = False
                     else:
-                        Options.COLORS[1] = Colors.YELLOW
+                        Options.COLORS[1] = Colors.MAGENTA
                         Options.ACTIVATED[1] = True
                         Options.BLOCKED[0] = True
                         Options.BLOCKED[2] = True
@@ -385,7 +385,7 @@ while running:
                         Options.BLOCKED[0] = False
                         Options.BLOCKED[1] = False
                     else:
-                        Options.COLORS[2] = Colors.YELLOW
+                        Options.COLORS[2] = Colors.MAGENTA
                         Options.ACTIVATED[2] = True
                         Options.BLOCKED[0] = True
                         Options.BLOCKED[1] = True

@@ -6,7 +6,7 @@
 
 ## New in Version 1.1:
 - Added background music. Credits: https://www.youtube.com/watch?v=VVgVFSdkqFA
-- Changed the settings menu highlight color from blue to yellow.
+- Changed the setting highlight color from blue to magenta.
 
 ## WARNING/DISCLAIMER: 
 This is a personal project made for my own (and your) entertainment. This game is not copyrighted or 
