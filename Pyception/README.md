@@ -1,5 +1,5 @@
 # Pyception! by William Ma 
-- Version: 1.1
+- Version: 1.2
 - Github: Will-Ma-02
 - Repository: https://github.com/Will-Ma-02/Snake-Around-The-World
 - Please read this throughly before you start playing!
