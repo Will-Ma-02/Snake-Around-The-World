@@ -77,7 +77,8 @@ doesn't work, make sure you have the VSCode Python 3 interpreter extension insta
 - Another way is to open a terminal and navigate to the Pyception folder. You can do this by using
 cd commands. If you're not sure how to navigate using cd commands, look up a tutorial on Google. Once 
 inside, type "python3 Game.py" and the game should start. If this doesn't work, make sure you have 
-Python installed on your computer. To do this, type "pip3 install python" in the terminal.
+Python and PyGame installed on your computer. To do this, type "pip3 install python" and "pip3 install 
+pygame" in the terminal.
 - If you're using any other IDE other than VSCode, look up a tutorial of how to run python scripts in 
 their environment. You may need to install a couple extensions to do so.
 - If you have any other questions or find an alternative method to the ones I described that works, let
