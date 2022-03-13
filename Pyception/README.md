@@ -4,7 +4,7 @@
 - Repository: https://github.com/Will-Ma-02/Snake-Around-The-World
 - Please read this throughly before you start playing!
 
-## New in Version 1.2:
+## New in Version 1.2 (Final Version):
 - Added the message "Press an arrow key to begin" when starting a new game.
 - Changed the setting highlight color from magenta to green.
 
